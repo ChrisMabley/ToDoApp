@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    background-color: lightblue;
+}
+.header{
+    overflow: hidden;
+    background-color:lightblue;
+    position: fixed;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+}
+.header h1{
+    text-align: center;
+    font-size: 250%;
+    font-style: oblique;
+    color: black;
+}
+.pagebreak{
+    height: 80px;
+}
+.container{
+    color: darkslategrey;
+    font-size: x-large;
+    text-align: center;
+}
+.input {
+  border-style: groove;
+  color: black;
+}
